@@ -1,1 +1,1 @@
-# t20-wc
+The T20 World Cup Cricket Analysis Project is a comprehensive and data-driven initiative aimed at analyzing the performance and trends of teams and players in the T20 World Cup. This project leverages cricket match data, statistics, and machine learning techniques to provide valuable insights into team strategies, player performances, and historical patterns of the T20 World Cup tournaments.
